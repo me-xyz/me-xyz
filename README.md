@@ -7,6 +7,7 @@
 - 😄 Projects:
 -  ⁕  Calculator
 -  ⁕  Advertising website
+-  ⁕ Weather api
   
 
         
