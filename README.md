@@ -6,8 +6,8 @@
 - 📷Instagram: https://instagram.com/amibeam 
 - 😄 Projects:
 -  ⁕  Calculator
--  ⁕  Advertising website
--  ⁕ Weather api
+-  ⁕  Ads-web
+-  ⁕ Weather.api
   
 
         
