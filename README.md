@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning coding 
 - 💞️ I’m looking to collaborate on Open source project
 - 📫 Contack me:
-- 📷Instagram: https://instagram.com/strvyy_amyy
+- 📷Instagram: https://www.instagram.com/strvyy_amyy/
 - 😄 Projects:
 -  ⁕  Calculator
 -  ⁕  Ads-web
